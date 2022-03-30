@@ -4,7 +4,7 @@ const app = Vue.createApp({
             product: 'Socks',
             image: './assets/images/socks_green.jpg',
             inStock: true,
-            inventory: 0,
+            inventory: 10,
             url:'https://www.vuemastery.com/courses-path/beginner'
         }
     }
